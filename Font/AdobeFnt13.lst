@@ -1,0 +1,79 @@
+%!Adobe-FontList 1.13
+%Locale:0x41e
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:THSarabunPSK-BoldItalic
+FamilyName:TH SarabunPSK
+StyleName:Bold Italic
+FullName:TH SarabunPSK Bold Italic
+MenuName:TH SarabunPSK
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\Project\Project\Font\THSarabun Bold Italic.ttf
+DataFormat:sfntData
+FileLength:117644
+FileModTime:1346998174
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:THSarabunPSK-Bold
+FamilyName:TH SarabunPSK
+StyleName:Bold
+FullName:TH SarabunPSK Bold
+MenuName:TH SarabunPSK
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Project\Project\Font\THSarabun Bold.ttf
+DataFormat:sfntData
+FileLength:118964
+FileModTime:1346998174
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:THSarabunPSK-Italic
+FamilyName:TH SarabunPSK
+StyleName:Italic
+FullName:TH SarabunPSK Italic
+MenuName:TH SarabunPSK
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Project\Project\Font\THSarabun Italic.ttf
+DataFormat:sfntData
+FileLength:104352
+FileModTime:1346998174
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:THSarabunPSK
+FamilyName:TH SarabunPSK
+StyleName:Regular
+FullName:TH SarabunPSK
+MenuName:TH SarabunPSK
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Project\Project\Font\THSarabun.ttf
+DataFormat:sfntData
+FileLength:99980
+FileModTime:1346998174
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
